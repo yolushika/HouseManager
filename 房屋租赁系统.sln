@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "房屋租赁系统", "房屋租赁系统\房屋租赁系统.csproj", "{9B6AC6B5-9EA9-4C24-A338-E388EBAD651E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "房屋租赁系统.BLL", "房屋租赁系统.BLL\房屋租赁系统.BLL.csproj", "{9050D353-2154-4C0F-BCBB-2B1C07FFA971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "房屋租赁系统.DAL", "房屋租赁系统.DAL\房屋租赁系统.DAL.csproj", "{DFC7C39F-7ABC-4C8F-B5E5-F32E04798D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "房屋租赁系统.Models", "房屋租赁系统.Models\房屋租赁系统.Models.csproj", "{F83734D6-B5E4-432E-86FD-96D120BBB5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B6AC6B5-9EA9-4C24-A338-E388EBAD651E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6AC6B5-9EA9-4C24-A338-E388EBAD651E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6AC6B5-9EA9-4C24-A338-E388EBAD651E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6AC6B5-9EA9-4C24-A338-E388EBAD651E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9050D353-2154-4C0F-BCBB-2B1C07FFA971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9050D353-2154-4C0F-BCBB-2B1C07FFA971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9050D353-2154-4C0F-BCBB-2B1C07FFA971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9050D353-2154-4C0F-BCBB-2B1C07FFA971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC7C39F-7ABC-4C8F-B5E5-F32E04798D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC7C39F-7ABC-4C8F-B5E5-F32E04798D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC7C39F-7ABC-4C8F-B5E5-F32E04798D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC7C39F-7ABC-4C8F-B5E5-F32E04798D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83734D6-B5E4-432E-86FD-96D120BBB5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83734D6-B5E4-432E-86FD-96D120BBB5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83734D6-B5E4-432E-86FD-96D120BBB5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83734D6-B5E4-432E-86FD-96D120BBB5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAFC635-3193-44BE-AB5D-117821910585}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,62 @@
+﻿# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# NuGet
+packages/
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.assets.json
+project.nuget.cache
+
+# .NET Core
+project.lock.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# MSTest
+*.rec
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# CodeRush
+.cr/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# IrisSkin4 (skin files)
+房屋租赁系统/IrisSkin4/*.ssk
